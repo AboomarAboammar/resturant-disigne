@@ -1,0 +1,395 @@
+.nombers{
+    background-color: #ab3550;
+    padding: 25px;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.nombers .row{
+    margin: 15px 0px;
+}
+.nombers h2{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #fff;
+    
+}
+.nombers h6{
+    text-transform: uppercase;
+    color: #fff;
+    font-family: "Tajawal",sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+}
+/*section pride  And ingrediants section*/
+.pride ,.ingrediants{
+    
+    padding: 25px;
+    height: auto;
+    
+    overflow: hidden;
+    max-width: 100%;
+    margin-top: 60px;
+}
+.pride img,.ingrediants img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.pride h2,.ingrediants h2{
+    font-size: 35px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #500718;
+    width: 80%;
+    line-height: 50px;
+    
+}
+.pride p,.ingrediants p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #333;
+    font-family: "tajawal"sans-serif;
+    margin-top: 15px;
+}
+.pride button,.ingrediants button{
+    background-color: #81102a;
+    border:1px #81102a;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.pride button a,.ingrediants button a{
+    display: block;
+    color: rgb(255, 251, 251);
+    font-family: "tajawal"sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.pride button :hover a,.ingrediants button:hover a{
+    color: #81102a;
+
+    
+}
+.pride button :hover,.ingrediants button:hover{
+    background-color:#fff;
+    color: #81102a;
+    transition: .5s ease-in-out;
+   
+
+}
+/*ingrediants section*/
+
+
+.ingrediants ul{
+    line-height: 40px;
+    padding: 0px;
+}
+
+.ingrediants ul li{
+   list-style-type: style ;
+   font-family: "tajawal";
+   color: #333;
+}
+.ingrediants button:hover a{
+    background-color: #fff;
+    color: rgb(85, 9, 9) !important;
+    transition: .2s ease-in-out;
+}
+/*paralex*/
+.paralex{
+    background: url("../../assets/qq.jpg") center no-repeat;
+    height:600px;
+    text-align:center;
+    padding: 25px 0px;
+    background-size: cover;
+}
+.paralex h2{
+    font-size: 35px;
+    font-weight: bold;
+    
+    color: #500718;
+    width: 100%;
+    line-height: 50px;
+    font-family: "tajawal";
+}
+.paralex p{
+    font-size: 16px;
+    line-height: 20px;
+    color: rgb(48, 0, 0);
+    font-family: "tajawal"sans-serif;
+    margin-top: 15px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+.paralex a{color: #1d0209;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    margin: 20px;
+}
+.paralex a:hover{
+    color: rgb(0, 72, 100) !important;
+}
+.paralex .row{
+    margin: 30px 0px;
+}
+
+/*blogs*/
+.blogs{
+    margin-top: 50px;
+    padding: 25px 0px;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+.blogs .row:first-child{
+    text-align: center;
+    margin: 25px;
+}
+.blogs h2{
+    font-size: 45px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #500718;
+    width: 100%;
+    line-height: 50px;
+    font-family: "tajawal"sans-serif;
+}
+.blogs p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #333;
+    font-family: "tajawal"sans-serif;
+    margin-top: 15px;
+}.blogs .box img{
+    max-width: 100%;
+}
+.blogs .box{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.blogs h5{
+    color: #500718;
+    font-family: "tajawal"sans-serif;
+}
+.blogs .box span{
+    color: #333;
+    font-family: "tajawal"sans-serif;
+    
+    font-size: 17px;
+}
+
+.blogs .box h6{
+    color: #af1136;
+    font-family: "tajawal"sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.blogs .box button{
+    background-color: #ab3550  ; 
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    color: rgb(15, 15, 15) ;
+    border-radius: 15px;
+    margin:10px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    text-transform:capitalize
+}
+.blogs .box button:hover{
+    background-color: #fff;
+    color: rgb(85, 9, 9) !important;
+    transition: .5s ease-in-out;
+    
+}
+.blogs .box button a{
+    text-decoration: none;
+    color: #fff;
+}
+.blogs .box button a:hover{
+    color: #500718;
+}
+.slider{
+    background-color: #af1136;
+    border: 1px solid #af1136;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 50px 0px;
+    height: auto;
+    border-radius: 5px;
+    margin: 50px 0px;
+    
+    
+}
+.slider .carosul{
+    background-color: #fff;
+    margin: 40px 0px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    padding: 15px 0px;
+}
+.slider img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 150px;
+    
+    
+}
+.slider .caro p{
+ color: #212121;
+ font-size: 17px;
+
+
+}
+
+    
+    
+
+.slider .caro span{
+color: #500718;
+font-size: 17px;
+text-transform: uppercase;
+display: block;
+margin: 15px 0px;
+}
+.slider h1{
+    color: #fff;
+    font-family: "tajawal";
+   
+}
+.slider .carousel-indicators button{
+    background-color: #720623;
+    width: 30px;
+    height: 10px;
+    border: 1px solid #720623;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    
+}
+/*section asked*/
+.asked{
+    background-color: #fff;
+    border: 1px solid #fff;
+    margin: 50px 0px;
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.asked h1{
+    margin: 10px 0px 40px 0px;
+    color:#500718;
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+.asked h3{
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.asked p{
+  color: rgb(59, 57, 57);
+  line-height: 30px;
+  width: 100%;
+}
+.bakers{
+    background: url("../../assets/OIP\ \(1\).jpeg") center no-repeat;
+    height: 250px;
+    text-align:center;
+    padding: 0px;
+    background-size: cover;
+}
+.bakers h5{
+    color: rgb(197, 121, 121);
+    margin-top: 70px;
+}
+.bakers button{
+    background-color: #f75b7f  ; 
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    margin:70px 0px 50px 0px;
+    border-radius: 15px;
+    
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    text-transform:capitalize
+}
+.bakers button a{
+    color: #500718;
+   
+    font-family: "tajawal"sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.bakers button:hover{
+    background-color:#fff;
+    transition: .5s ease-in-out;
+}
+.register{
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+.register h1{
+    color: #1d0209;
+    margin: 50px 0px 30px;
+}
+.register p{
+    color: #333;
+    margin: 10px 0px 20px;
+}
+.register button{
+    background-color: #f75b7f  ; 
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    margin: 25px 30px 20px ;
+    
+}
+.register button a{
+    color: #500718;
+    font-family: "tajawal"sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.register button:hover{
+    background-color:#fff;
+    color: #500718;
+    transition: .5s ease-in-out;
+}
+.register input{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 20px 30px 40px 10px;
+    border: 1px solid rgb(197, 187, 187);
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+.footer{
+    background-color:#ab3550;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.footer .links{
+    margin-top: 20px;
+}
+.footer .links a{
+    color: #fff;
+    text-transform: capitalize;
+}
+.footer .links a:hover{
+    color: rgb(241, 131, 182);
+}
+.footer p{
+    color: #fff;
+}
+
+
+.footer a{
+    color: #fff;
+    margin: 50px 20px;
+    text-decoration: none;
+}
+.social{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    display: inline;
+}
+.social img{
+    width: 40px;
+    height: auto;
+    margin: 50px 5px;
+}

@@ -1,0 +1,47 @@
+header{  background:url("../../assets/OIP\ \(1\).jpeg")center no-repeat ;
+  
+    background-size:cover;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: left;
+    margin-top: 0px;
+}
+header h1{
+    font-family: 'Tajawal', sans-serif;
+    line-height: 50px;
+    font-weight: bold;
+    color: #570b1d;
+    font-size: 60px;
+    margin: 30px;
+}
+header p{font-family: 'Tajawal', sans-serif;
+    line-height: 25px;
+    
+    color: rgb(58, 57, 57);
+    font-size: 20px;
+    margin: 30px;
+    
+
+}
+header button{
+    background-color: #ab3550  ; 
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    color: rgb(15, 15, 15) ;
+    border-radius: 15px;
+    margin:10px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    text-transform:capitalize
+}
+header button:hover{
+    background-color: #fff;
+    color: rgb(85, 9, 9) !important;
+    transition: .5s ease-in-out;
+    
+}
+
+

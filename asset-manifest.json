@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/resturant-disigne/static/css/main.d577ccfe.css",
+    "main.js": "/resturant-disigne/static/js/main.e5120a06.js",
+    "static/media/2.png": "/resturant-disigne/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/8.jpeg": "/resturant-disigne/static/media/8.2ce032916dad25b27e17.jpeg",
+    "static/media/03.jpg": "/resturant-disigne/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/OIP (1).jpeg": "/resturant-disigne/static/media/OIP (1).a421991a6cbe39d999bd.jpeg",
+    "static/media/per3.jpg": "/resturant-disigne/static/media/per3.960ff282036e3c4e63eb.jpg",
+    "static/media/per2.jpg": "/resturant-disigne/static/media/per2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/qq.jpg": "/resturant-disigne/static/media/qq.1defe43a880022701c8d.jpg",
+    "static/media/facbook.png": "/resturant-disigne/static/media/facbook.d0724a102806393f3a84.png",
+    "static/media/youtube.png": "/resturant-disigne/static/media/youtube.a0d5e67dafc887b001c6.png",
+    "static/media/002.jpg": "/resturant-disigne/static/media/002.a567a9db1482b99c0fab.jpg",
+    "static/media/Telegram.png": "/resturant-disigne/static/media/Telegram.d5f87d36d926c177c2fc.png",
+    "static/media/tweet.png": "/resturant-disigne/static/media/tweet.4e4adfa6439ea5bbee6f.png",
+    "index.html": "/resturant-disigne/index.html",
+    "main.d577ccfe.css.map": "/resturant-disigne/static/css/main.d577ccfe.css.map",
+    "main.e5120a06.js.map": "/resturant-disigne/static/js/main.e5120a06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d577ccfe.css",
+    "static/js/main.e5120a06.js"
+  ]
+}

@@ -13,7 +13,7 @@ const Home = () => {
         return(
             <div className='col-md-4'>
                 <div className='box'>
-                <img src={item.img} />
+                <img src={item.img} alt='' />
                 <h5>{item.title}</h5>
                <span> {item.time}</span>
                 <h6>{item.price}</h6>
